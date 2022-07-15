@@ -1,0 +1,10 @@
+Unscripted,M.J.DeMarco,35,$3
+Harry Potter,JK Rowling,30,$2
+The Lean Startup,Eric Ries,20,$2.5
+Start With Why,Simon Sinek,10,$1.5
+The Story Factor,Annette Simmons,15,$2.5
+Programming With Python,John Smith,20,$1.5
+The Alchemist,Paulo Coelho,40,$2
+Think and Grow Rich,Napoleo Hill,35,$2
+The Power of Now,Eckhart Tolle,25,$2.5
+Flow,Mihaly Csikszentmihalyi,30,$3
